@@ -39,7 +39,7 @@ It will help us practice teamwork, planning, and design thinking before coding.
 
 ---
 
-## 🧩 UI Components Planned  
+## UI Component Patterns  
 - Navbar (logo, search, login).  
 - Property Card (image, price, rating).  
 - Footer (links, socials).  
